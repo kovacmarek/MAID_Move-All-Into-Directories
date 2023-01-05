@@ -1,5 +1,5 @@
 # MAID (Move All Into Directories)
-### MAID will organize your messy desktop instantly!
+### MAID will clean up your messy desktop instantly!
 
 ![scrn_01](https://user-images.githubusercontent.com/30508711/210896114-7c86140c-c2cc-467b-b1e0-fdc20ec4a848.jpg)
 
