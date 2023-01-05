@@ -19,9 +19,9 @@
 
 1. Select folder
 
-2. Press "Refresh" to fetch all files into list
+2. Press "Refresh" to fetch files into list
 
-3. Press "Execute" to sort your files
+3. Press "Execute" to sort into folders
 
 4. If you made a mistake, use "Undo" to move your files back.
 
